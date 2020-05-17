@@ -1,4 +1,8 @@
-## Velcome to GitHub Pages
+---
+layout: default
+title: Adrian Self
+---
+## Adrian Self
 
 You can use the [editor on GitHub](https://github.com/AdnanSlef/AdnanSlef.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
