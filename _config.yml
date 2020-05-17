@@ -1,2 +1,14 @@
 name: Adrian Self
 description: Computer Science Student and Security Researcher
+
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: category
