@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Tuxs Kitchen
+title: Tux's Kitchen
+description: Let's bake some crypto
 categories: [writeups]
 tags: [crypto]
 ---
