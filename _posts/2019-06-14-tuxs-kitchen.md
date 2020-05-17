@@ -3,10 +3,10 @@ layout: writeup
 title: Tux's Kitchen
 description: Let's bake some crypto
 categories: [writeups]
-tags: [crypto, HSCTF 6]
+tags: [HSCTF 6, crypto]
 ---
 
-#Tux's Kitchen
+# Tux's Kitchen
 
 ```python
 import random
