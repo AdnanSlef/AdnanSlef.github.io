@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: writeup
 title: Tux's Kitchen
 description: Let's bake some crypto
 categories: [writeups]
-tags: [crypto]
+tags: [crypto, HSCTF 6]
 ---
 
 #Tux's Kitchen
