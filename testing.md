@@ -10,8 +10,9 @@ description: Test page for running code
 {% for tag in site.tags %}
 ### {{ tag[0] }}
 {% for post in tag[1] %}
+  {% assign cat = post.categories | first %}
+  {% if cat == "writeups" %}
   [{{post.title}}]({{post.url}})
-  {{post.categories|first}}
 {% endfor %}
 {% endfor %}
 
