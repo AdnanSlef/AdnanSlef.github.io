@@ -14,4 +14,4 @@ description: Test page for running code
 {% endfor %}
 {% endfor %}
 
-{{site.pages}}
+{{site.pages|inspect}}
