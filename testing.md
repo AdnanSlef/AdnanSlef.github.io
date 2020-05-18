@@ -15,3 +15,5 @@ description: Test page for running code
 {% endfor %}
 
 {{site.pages|inspect}}
+
+{{site.pages|where:"name","writeups.md"}}
