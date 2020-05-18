@@ -13,3 +13,5 @@ description: Test page for running code
   [{{post.title}}]({{post.url}})
 {% endfor %}
 {% endfor %}
+
+{{site.pages}}
