@@ -49,5 +49,9 @@ description: Test page for running code
 
 ---
 {{writeups_page.description}}
+
+---
 {{writeups_page[0]}}
+
+---
 {{writeups_page[1]}}
