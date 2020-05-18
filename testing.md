@@ -8,13 +8,22 @@ description: Test page for running code
 # Tests
 
 {% for tag in site.tags %}
+  {% assign is_writeup_tag = "false" %}
+  {% for post in tag[1] %}
+    {% assign cat = post.categories | first %}
+    {% if cat == "writeups" %}
+      {% assign is_writeup_tag = "true" %}
+    {% endif %}
+  {% endfor %}
+  {% if is_writeup_tag == "true" %}
 ### {{ tag[0] }}
-{% for post in tag[1] %}
-  {% assign cat = post.categories | first %}
-  {% if cat == "writeups" %}
+    {% for post in tag[1] %}
+      {% assign cat = post.categories | first %}
+      {% if cat == "writeups" %}
 [{{post.title}}]({{post.url}})
+      {% endif %}
+    {% endfor %}
   {% endif %}
-{% endfor %}
 {% endfor %}
 
 ---
@@ -40,5 +49,5 @@ description: Test page for running code
 
 ---
 {{writeups_page.description}}
-{{writeups_page["title"]}}
-{{writeups_page.url}}
+{{writeups_page[0]}}
+{{writeups_page[1]}}
