@@ -20,11 +20,14 @@ description: Test page for running code
 {{p.url}}
 {%endfor%}
 
+---
 {% assign writeups_page = site.pages | where: "name","writeups.md" %}
 {{writeups_page|inspect}}
-hi
+
+---
 {{writeups_page}}
-hi
+
+---
 {{writeups_page.description}}
 {{writeups_page.title}}
 {{writeups_page.url}}
