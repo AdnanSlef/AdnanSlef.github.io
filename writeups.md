@@ -1,8 +1,10 @@
 ---
 layout: default
-title: writeups
-permalink: "/writeups"
-description: here's writeups
+title: Writeups
+permalink: /writeups
+description: Explanations and solutions to CTF challenges
 ---
 
 # Writeups
+
+
