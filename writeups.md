@@ -12,7 +12,7 @@ description: Explanations and solutions to CTF challenges
 {% endfor %}
 
 {% for tag in site.tags %}
-  ## {{ tag[0] }}
+## {{ tag[0] }}
   {% for post in tag %}
     [{{post.title}}]({{post.url}})
   {% endfor %}
