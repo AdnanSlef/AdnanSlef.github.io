@@ -37,5 +37,5 @@ description: Test page for running code
 
 ---
 {{writeups_page.description}}
-{{writeups_page.title}}
+{{writeups_page["title"]}}
 {{writeups_page.url}}
