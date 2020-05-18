@@ -16,6 +16,10 @@ description: Test page for running code
 
 {{site.pages|inspect}}
 
+{%for p in site.pages%}
+{{p.url}}
+{%endfor%}
+
 {% assign writeups_page = site.pages | where: "name","writeups.md" %}
 {{writeups_page|inspect}}
 hi
@@ -23,4 +27,4 @@ hi
 hi
 {{writeups_page.description}}
 {{writeups_page.title}}
-{{writeups_page.page_url}}
+{{writeups_page.url}}
