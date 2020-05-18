@@ -16,4 +16,4 @@ description: Test page for running code
 
 {{site.pages|inspect}}
 
-{{site.pages|where:"name","writeups.md"}}
+{{site.pages|where:"name","writeups"}}
