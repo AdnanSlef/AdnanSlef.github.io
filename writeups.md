@@ -12,5 +12,5 @@ description: Explanations and solutions to CTF challenges
 {% endfor %}
 
 {% for post in site.categories.writeups %}
-  {{ tags | join ", " }}
+  {{ site.tags | join ", " }}
 {% endfor %}
