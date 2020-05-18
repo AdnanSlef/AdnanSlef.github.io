@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Writeups
-permalink: /writeups
-description: Explanations and solutions for CTF challenges
+title: Testing
+permalink: /testing
+description: Test page for running code
 ---
 
-# Writeups
+# Tests
 
 {% for tag in site.tags %}
 ### {{ tag[0] }}

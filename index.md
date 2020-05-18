@@ -4,10 +4,11 @@ title: Adrian Self
 ---
 # Adrian Self
 
+
 ---
 
 ## [Writeups](/writeups)
-Explanations and solutions to CTF challenges
+Explanations and solutions for CTF challenges
 
 
 ---
