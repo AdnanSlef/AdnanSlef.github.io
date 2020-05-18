@@ -22,3 +22,5 @@ hi
 {{writeups_page}}
 hi
 {{writeups_page.description}}
+{{writeups_page.title}}
+{{writeups_page.page_url}}
