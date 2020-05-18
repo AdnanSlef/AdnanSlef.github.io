@@ -14,6 +14,7 @@ description: Test page for running code
 {% endfor %}
 {% endfor %}
 
+---
 {{site.pages|inspect}}
 
 {%for p in site.pages%}
@@ -26,6 +27,9 @@ description: Test page for running code
 
 ---
 {{writeups_page}}
+
+---
+{{writeups_page|inspect}}
 
 ---
 {{writeups_page.description}}
