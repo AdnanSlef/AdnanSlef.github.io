@@ -54,4 +54,7 @@ description: Test page for running code
 {{writeups_page[0]}}
 
 ---
-{{writeups_page[1]}}
+{{writeups_page[0][description]}}
+
+---
+{{writeups_page[0]["description"]}}
