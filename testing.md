@@ -12,7 +12,7 @@ description: Test page for running code
 {% for post in tag[1] %}
   {% assign cat = post.categories | first %}
   {% if cat == "writeups" %}
-    [{{post.title}}]({{post.url}})
+[{{post.title}}]({{post.url}})
   {% endif %}
 {% endfor %}
 {% endfor %}
