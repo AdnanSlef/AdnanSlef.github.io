@@ -19,7 +19,5 @@ description: Explanations and solutions to CTF challenges
 {% for tag in site.tags %}
 ## {{ tag[0] }}
 {{tag|first}}
-{% for post in tag %}
-{{ tag }}
-{% endfor %}
+{{tag[1]}}
 {% endfor %}
