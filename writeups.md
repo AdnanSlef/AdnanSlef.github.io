@@ -10,3 +10,7 @@ description: Explanations and solutions to CTF challenges
 {% for post in site.categories.writeups %}
   [{{post.title}}]({{post.url}})
 {% endfor %}
+
+{% for post in site.categories.writeups %}
+  {{ tags | join ", " }}
+{% endfor %}
