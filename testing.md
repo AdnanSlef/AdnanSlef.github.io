@@ -32,6 +32,9 @@ description: Test page for running code
 {{writeups_page|inspect}}
 
 ---
+{{writeups_page.dir}}
+
+---
 {{writeups_page.description}}
 {{writeups_page.title}}
 {{writeups_page.url}}
