@@ -12,6 +12,8 @@ description: Explanations and solutions to CTF challenges
 {% endfor %}
 
 {{site.tags}}
+
+---
 {{site.tags|inspect}}
 
 {% for tag in site.tags %}
