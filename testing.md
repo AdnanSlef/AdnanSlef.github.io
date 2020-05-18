@@ -11,6 +11,7 @@ description: Test page for running code
 ### {{ tag[0] }}
 {% for post in tag[1] %}
   [{{post.title}}]({{post.url}})
+  {{post.categories|first}}
 {% endfor %}
 {% endfor %}
 
