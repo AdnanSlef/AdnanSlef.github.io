@@ -16,4 +16,5 @@ description: Test page for running code
 
 {{site.pages|inspect}}
 
-{{site.pages|where:"name","writeups"}}
+{% assign writeups_page = site.pages | where: "name","writeups.md" %}
+{{writeups_page.description}}
