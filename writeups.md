@@ -11,6 +11,9 @@ description: Explanations and solutions to CTF challenges
   [{{post.title}}]({{post.url}})
 {% endfor %}
 
-{% for post in site.categories.writeups %}
-  {{ site.tags | join ", " }}
+{% for tag in site.tags %}
+  ## {{ tag[0] }}
+  {% for post in tag %}
+    [{{post.title}}]({{post.url}})
+  {% endfor %}
 {% endfor %}
