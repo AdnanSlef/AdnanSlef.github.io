@@ -8,7 +8,8 @@ title: Adrian Self
 ---
 
 ## [Writeups](/writeups)
-Explanations and solutions for CTF challenges
+{% assign writeups_page = site.pages | where: "name","writeups.md" %}
+{{writeups_page[0]["description"]}}
 
 
 ---
