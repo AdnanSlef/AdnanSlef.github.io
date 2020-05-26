@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Writeups
-permalink: /writeups
+permalink: /writeups/
 description: Explanations and solutions for CTF challenges
 ---
 
