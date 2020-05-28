@@ -142,3 +142,16 @@ for i in range(args.num_results):
     except:
         break
 ```
+
+This gives three possible solutions:
+
+```
+isacaps
+hata o sagashiteim}oi ka? dozo, tjctf{siqumasen_flag_kudasaiua2
+isacapo
+hata o sagashiteimasu ka? dozo, tjctf{sumimasen_flag_kudasaii}.
+isacapg
+hata o sagashiteimi{} ka? dozo, tjctf{s}eamasen_flag_kudasaiau&
+```
+
+Only one follows the flag format, so the flag is `tjctf{sumimasen_flag_kudasaii}` and the key is `isacapo`.
