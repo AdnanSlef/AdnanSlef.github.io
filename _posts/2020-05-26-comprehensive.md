@@ -3,7 +3,7 @@ layout: writeup
 title: Comprehensive 2
 description: #Comprehensive, not comprehensible.
 categories: [writeups]
-tags: #[TJCTF 2020, reversing]
+tags: [TJCTF 2020, reversing]
 ---
 
 # Comprehensive 2
