@@ -1,7 +1,7 @@
 ---
 layout: writeup
 title: Comprehensive 2
-description: #Comprehensive, not comprehensible.
+description: Comprehensive, not comprehensible.
 categories: [writeups]
 tags: [TJCTF 2020, reversing]
 ---
