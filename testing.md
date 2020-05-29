@@ -7,6 +7,9 @@ description: Test page for running code
 
 # Tests
 
+{% assign help_csv = site.static_files|where:"jarvis-help",true%}
+{{help_csv|inspect}}
+
 {% for tag in site.tags %}
   {% assign is_writeup_tag = "false" %}
   {% for post in tag[1] %}
