@@ -1,9 +1,9 @@
 ---
 layout: default
-title: My First CTF
-description: My first CTF
+title: Network+ Final Essay
+description: Final essay in CSCI 1152 Networking Concepts (Network+)
 categories: [portfolio]
-tags: [essays]
+tags: [Essays]
 ---
 
 # Network+ Final Essay
