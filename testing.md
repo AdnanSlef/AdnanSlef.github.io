@@ -8,7 +8,7 @@ description: Test page for running code
 # Tests
 
 {% assign help_csv = site.static_files|where_exp: "f", "f.name contains 'jarvis-help'" %}
-{{help_csv.url}}
+{{help_csv.path}}
 
 help_csv inspect
 {{help_csv|inspect}}
