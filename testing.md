@@ -8,6 +8,9 @@ description: Test page for running code
 # Tests
 
 {% assign help_csv = site.static_files|where_exp: "f", "f.name contains 'jarvis-help'" %}
+{{help_csv}}
+
+help_csv inspect
 {{help_csv|inspect}}
 
 site.static_files:
