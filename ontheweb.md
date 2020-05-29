@@ -11,7 +11,7 @@ description: Find me on the web
   {% if post.categories contains 'ontheweb' %}
 
 ---
-[{{post.title}}]({{post.url}})
+## [{{post.title}}]({{post.url}})
 
 {{post.description}}
 
