@@ -5,6 +5,16 @@ permalink: /testing/
 description: Test page for running code
 ---
 
+# July Tests 0
+{% for post in site.posts | where_exp "item","item.categories contains 'ontheweb'"%}
+  {{post.title}}
+{% endfor %}
+
+# July Tests 1
+{% for post in site.posts |sort | where_exp "item","item.categories contains 'ontheweb'"%}
+  {{post.title}}
+{% endfor %}
+
 # Tests
 
 {% assign help_csv = site.static_files|where_exp: "f", "f.name contains 'jarvis-help'" %}
