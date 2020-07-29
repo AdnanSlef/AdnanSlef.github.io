@@ -6,7 +6,7 @@ description: Test page for running code
 ---
 
 # July Test 3
-[link](https://www.google.com/){:target="_blank"}
+[link](https://www.google.com/){:target="_blank"} opens in new tab as desired, yay!
 
 # July Tests 0
 {% for post in site.posts | where_exp "item","item.categories contains 'ontheweb'"%}
