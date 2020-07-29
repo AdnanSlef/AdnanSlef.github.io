@@ -7,12 +7,12 @@ description: Test page for running code
 
 # July Tests 0
 {% for post in site.posts | where_exp "item","item.categories contains 'ontheweb'"%}
-  {{post.title}}
+  {{post.title}} {{post.categories contains 'ontheweb'}}
 {% endfor %}
 
 # July Tests 1
 {% for post in site.posts |sort | where_exp "item","item.categories contains 'ontheweb'"%}
-  {{post.title}}
+  {{post.title}} {{post.categories contains 'ontheweb'}}
 {% endfor %}
 
 # Tests
