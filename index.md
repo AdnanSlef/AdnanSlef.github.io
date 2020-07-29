@@ -19,15 +19,15 @@ title: Adrian Self
 
 ---
 
-## [Resume](/resume/)
-{% assign resume_page = site.pages | where: "name", "resume.md" %}
-{{ resume_page[0]["description"] }}
-
----
-
 ## [LinkedIn](/linkedin/)
 {% assign linkedin_page = site.pages | where: "name", "linkedin.md" %}
 {{ linkedin_page[0]["description"] }}
+
+---
+
+## [Resume](/resume/)
+{% assign resume_page = site.pages | where: "name", "resume.md" %}
+{{ resume_page[0]["description"] }}
 
 ---
 
