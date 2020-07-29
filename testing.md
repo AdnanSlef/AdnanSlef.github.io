@@ -5,6 +5,9 @@ permalink: /testing/
 description: Test page for running code
 ---
 
+# July Test 3
+[link](https://www.google.com/){:target="_blank"}
+
 # July Tests 0
 {% for post in site.posts | where_exp "item","item.categories contains 'ontheweb'"%}
   {{post.title}} {{post.categories contains 'ontheweb'}}
