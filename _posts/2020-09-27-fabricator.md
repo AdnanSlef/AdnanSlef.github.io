@@ -120,7 +120,7 @@ if (strncmp(md5hash1, md5hash2, MD5_DIGEST_LENGTH)){
 ```
 But the output of a hash function is a sequence of bytes, not a string, so why would they use strncmp?
 
-The problem is that strings in C are null-terminated, and strncmp will identify the hashes as identical whenever they match up to the first null byte. All data after the first null bytes will be ignored. So, if both hashes start with a null byte `\x00`, they will match at the first bytes and the comparison will stop there, returning success.
+The problem is that strings in C are null-terminated, and strncmp will identify the hashes as identical whenever they match up to the first null byte. All data after the first null bytes will be ignored. So, if both hashes start with a null byte `\x00`, they will match at the first bytes and the comparison will stop there, returning success. (This was an unintended solution I found. The problem would still be solvable, but more difficult, without this technique.)
 
 One in every 256 MD5 hashes starts with a null byte, so it won't be hard to generate two IDs which match in this way. Here's a script which can find the collisions:
 ```python
@@ -162,7 +162,7 @@ $ checksec fabricator
     PIE:      No PIE (0x400000)
 ```
 
-So, it is a statically linked x64 NX binary with no PIE. I'm not sure why pwn checksec says Canary found; when I disassembled the binary I found no stack checks and I never ran into a canary when exploiting it. Because the program uses the stack protector, we cannot simply write shellcode on the stack. There isn't a win() function either. So, we will have to use Return Oriented Programming.
+So, it is a statically linked x64 NX binary with no PIE. I'm not sure why pwn checksec says `Canary found`; when I disassembled the binary I found no stack checks and I never ran into a canary when exploiting it. Because the program uses the stack protector, we cannot simply write shellcode on the stack. There isn't a win() function either. So, we will have to use Return Oriented Programming.
 
 This is a statically linked executable, so no ret2libc. Instead, we try to construct `execve("/bin/sh",NULL,NULL)` using ROP gadgets. To do this, we will need to control four registers: `rdi` must be a pointer to the /bin/sh string; `rsi` must be 0; `rdx` must be 0; and `rax` must be 0x3b to indicate the execve syscall. Each of these registers can be set with a rop gadget to pop from the stack into the register.
 

@@ -7,10 +7,8 @@ description: My computer science and security resume
 
 # View my resume
 
-My resume is not public at this time.
+Here is my resume as of 06 Oct 2020:
 
-If you would like to see my resume because you are offering a position or internship, or for a related reason, please contact me directly at `aself.school@gmail.com`
+[Download](https://adrianself.me/assets/other/Resume_10062020.pdf)
 
-For an overview of my resume, see below:
-
-(More to come)
+<iframe src="/assets/other/Resume_10062020.pdf">
