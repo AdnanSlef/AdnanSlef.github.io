@@ -5,7 +5,7 @@ permalink: /linkedin/
 description: My online resume and bio
 ---
 
-<h3><a href="/">&lt; Return Home</a></h3>
+{% include returnhome.html %}
 
 # Connect on LinkedIn
 

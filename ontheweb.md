@@ -5,7 +5,7 @@ permalink: /ontheweb/
 description: Find me on the web
 ---
 
-<h3><a href="/">&lt; Return Home</a></h3>
+{% include returnhome.html %}
 
 # Find Me On The Web
 

@@ -5,7 +5,7 @@ permalink: /testing/
 description: Test page for running code
 ---
 
-<h3><a href="/">&lt; Return Home</a></h3>
+{% include returnhome.html %}
 
 # July Test 3
 [link](https://www.google.com/){:target="_blank"} opens in new tab as desired, yay!
