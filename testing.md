@@ -5,6 +5,8 @@ permalink: /testing/
 description: Test page for running code
 ---
 
+<a href="/"><h3>&lt; Return Home</h3></a>
+
 # July Test 3
 [link](https://www.google.com/){:target="_blank"} opens in new tab as desired, yay!
 

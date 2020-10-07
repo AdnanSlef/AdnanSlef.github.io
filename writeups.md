@@ -5,6 +5,8 @@ permalink: /writeups/
 description: Explanations and solutions for CTF challenges
 ---
 
+<a href="/"><h3>&lt; Return Home</h3></a>
+
 # Writeups
 
 {% for tag in site.tags %}

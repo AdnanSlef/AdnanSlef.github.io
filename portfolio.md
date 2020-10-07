@@ -5,6 +5,8 @@ permalink: /portfolio/
 description: A collection of works by Adrian Self
 ---
 
+<a href="/"><h3>&lt; Return Home</h3></a>
+
 # Portfolio
 
 {% for tag in site.tags %}

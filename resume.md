@@ -5,6 +5,8 @@ permalink: /resume/
 description: My computer science and security resume
 ---
 
+<a href="/"><h3>&lt; Return Home</h3></a>
+
 # View my resume
 
 Here is my resume as of 06 Oct 2020:
