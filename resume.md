@@ -5,7 +5,7 @@ permalink: /resume/
 description: My computer science and security resume
 ---
 
-<a href="/"><h3>&lt; Return Home</h3></a>
+<h3><a href="/">&lt; Return Home</a></h3>
 
 # View my resume
 
