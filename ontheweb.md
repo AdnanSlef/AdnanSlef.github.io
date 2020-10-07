@@ -5,8 +5,6 @@ permalink: /ontheweb/
 description: Find me on the web
 ---
 
-{% include returnhome.html %}
-
 # Find Me On The Web
 
 {% for post in site.posts %}

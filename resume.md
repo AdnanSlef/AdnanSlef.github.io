@@ -5,8 +5,6 @@ permalink: /resume/
 description: My computer science and security resume
 ---
 
-{% include returnhome.html %}
-
 # View my resume
 
 Here is my resume as of 06 Oct 2020:

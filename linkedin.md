@@ -5,8 +5,6 @@ permalink: /linkedin/
 description: My online resume and bio
 ---
 
-{% include returnhome.html %}
-
 # Connect on LinkedIn
 
 Click [here](https://linkedin.com/in/adrian-self) to visit my LinkedIn profile at [https://linkedin.com/in/adrian-self](https://linkedin.com/in/adrian-self).

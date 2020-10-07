@@ -5,8 +5,6 @@ permalink: /portfolio/
 description: A collection of works by Adrian Self
 ---
 
-{% include returnhome.html %}
-
 # Portfolio
 
 {% for tag in site.tags %}
