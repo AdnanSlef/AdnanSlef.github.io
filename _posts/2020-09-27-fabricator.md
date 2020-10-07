@@ -14,8 +14,8 @@ tags: [CSAW Red 2020, pwn]
 
 Forge an admin access card and pwn their box! This is both a crypto and a pwning challenge. `nc web.red.csaw.io 5012`
 
-[fabricator]({{https://adrianself.me/assets/writeups_assets/fabricator/fabricator}})
-[fabricator.c]({{https://adrianself.me/assets/writeups_assets/fabricator/fabricator.c}})
+[fabricator](https://adrianself.me/assets/writeups_assets/fabricator/fabricator)
+[fabricator.c](https://adrianself.me/assets/writeups_assets/fabricator/fabricator.c)
 
 ## Solution
 
