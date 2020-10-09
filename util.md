@@ -7,7 +7,7 @@ description: Utilities for Adrian Self
 
 # Utilities
 
-<script src='assets/scripts/md5.js'></script>
+<script src='/assets/scripts/md5.js'></script>
 <script>
 function compute() {
 document.getElementById("o1").innerHTML = base64(md5(document.getElementById("i1").value+document.getElementById("i2").value))
