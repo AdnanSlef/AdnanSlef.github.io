@@ -32,8 +32,10 @@ function run_lotto() {
 <input type="submit" onClick="run_lotto()">
 </form>
 
+<br>
+
 <form onsubmit="return false;">
-<input type="submit" onClick="show_one()" text='Run Lotto'>
+<input type="submit" onClick="show_one()" value='Run Lotto'>
 </form>
 
 <p id='w'>Initial W: </p>
