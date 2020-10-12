@@ -23,9 +23,7 @@ function run_lotto() {
     gen.init_from_pwd(document.getElementById("pwd").value);
     document.getElementById('w').innerHTML  = "Initial W: " + gen.w.toString();
     document.getElementById('x').innerHTML  = "Initial X: " + gen.x.toString();
-    for(var iter=0;iter<10;iter++) {
-        show_one(gen)
-    }
+    document.getElementById('outputs').innerHTML = '<p>Winning Numbers:</p>'
 }
 </script>
 
@@ -45,8 +43,3 @@ function run_lotto() {
     <!--Winning Numbers Generated Here-->
     <p>Winning Numbers:</p>
 </div>
-
-
-<script>
-run_lotto();
-</script>
