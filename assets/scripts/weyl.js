@@ -29,7 +29,6 @@ function getRandomInt(min, max) {//[min,max)
 /*Maybe Math.pow(2,64) works instead of bigint*/
 class Weyl {
     constructor() {
-        this.init_seed();
         this.s = 0xb5ad4eceda1ce2a9n; //weyl step value
         this.uint64 = 1n<<64n;
         this.uint32 = 1n<<32n;
@@ -43,13 +42,18 @@ class Weyl {
         this.x %= this.uint64;
         return this.x % this.uint32;
     }
-    init_seed() {
-                var r1 = getRandomInt(0,Math.pow(2,32));
+    init_rand() {
+        var r1 = getRandomInt(0,Math.pow(2,32));
         var r2 = getRandomInt(0,Math.pow(2,32));
         this.x = (BigInt(r1)<<32n)+BigInt(r2);//mod uint64 unnecessary
-                r1 = getRandomInt(0,Math.pow(2,32));
+        r1 = getRandomInt(0,Math.pow(2,32));
         r2 = getRandomInt(0,Math.pow(2,32));
         this.w = (BigInt(r1)<<32n)+BigInt(r2);//mod uint64 unnecessary
+    }
+    init_from_pwd(pwd) {
+        var h = md5(pwd);
+        this.x = BigInt('0x'+h.slice(0,16));
+        this.w = BigInt('0x'+h.slice(16));
     }
 
 }

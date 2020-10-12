@@ -8,10 +8,13 @@ tags: []
 
 # Lotto
 
+<script src='/assets/scripts/md5.js'></script>
 <script src='/assets/scripts/weyl.js'></script>
 <script>
 function run_lotto() {
     gen = new Weyl();
+    //gen.init_rand();
+    gen.init_from_pwd('hello');
     document.getElementById('w').innerHTML += gen.w.toString();
     document.getElementById('x').innerHTML += gen.x.toString();
     document.getElementById("o0").innerHTML = gen.nextRand().toString();
