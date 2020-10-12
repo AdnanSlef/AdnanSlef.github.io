@@ -45,10 +45,10 @@ class Weyl {
     init_rand() {
         var r1 = getRandomInt(0,Math.pow(2,32));
         var r2 = getRandomInt(0,Math.pow(2,32));
-        this.x = (BigInt(r1)<<32n)+BigInt(r2);//mod uint64 unnecessary
+        this.x = (BigInt(r1)<<32n)+BigInt(r2);
         r1 = getRandomInt(0,Math.pow(2,32));
         r2 = getRandomInt(0,Math.pow(2,32));
-        this.w = (BigInt(r1)<<32n)+BigInt(r2);//mod uint64 unnecessary
+        this.w = (BigInt(r1)<<32n)+BigInt(r2);
     }
     init_from_pwd(pwd) {
         var h = md5(pwd);

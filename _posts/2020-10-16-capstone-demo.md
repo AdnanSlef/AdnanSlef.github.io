@@ -15,8 +15,8 @@ function run_lotto() {
     gen = new Weyl();
     //gen.init_rand();
     gen.init_from_pwd(document.getElementById("pwd").value);
-    document.getElementById('w').innerHTML += gen.w.toString();
-    document.getElementById('x').innerHTML += gen.x.toString();
+    document.getElementById('w').innerHTML  = "Initial W: " + gen.w.toString();
+    document.getElementById('x').innerHTML  = "Initial X: " + gen.x.toString();
     document.getElementById("o0").innerHTML = gen.nextRand().toString();
     document.getElementById("o1").innerHTML = gen.nextRand().toString();
     document.getElementById("o2").innerHTML = gen.nextRand().toString();
@@ -31,7 +31,7 @@ function run_lotto() {
 </script>
 
 <form onsubmit="return false;">
-<input type="password" id="pwd">
+<input type="password" id="pwd" placeholder = "Governor's key">
 <input type="submit" onClick="run_lotto()">
 </form>
 
