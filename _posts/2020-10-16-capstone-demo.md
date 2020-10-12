@@ -12,6 +12,8 @@ tags: []
 <script>
 function run_lotto() {
     gen = new Weyl();
+    document.getElementbyId('w').innerHTML += gen.w.toString();
+    document.getElementbyId('x').innerHTML += gen.x.toString();
     document.getElementById("o0").innerHTML = gen.nextRand().toString();
     document.getElementById("o1").innerHTML = gen.nextRand().toString();
     document.getElementById("o2").innerHTML = gen.nextRand().toString();
@@ -25,6 +27,8 @@ function run_lotto() {
 }
 </script>
 
+<p id='w'>Initial W: </p>
+<p id='x'>Initial X: </p>
 <p id='o0'>Uncomputed</p>
 <p id='o1'>Uncomputed</p>
 <p id='o2'>Uncomputed</p>
