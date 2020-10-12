@@ -14,7 +14,7 @@ tags: []
 function run_lotto() {
     gen = new Weyl();
     //gen.init_rand();
-    gen.init_from_pwd('hello');
+    gen.init_from_pwd(document.getElementById("pwd").value);
     document.getElementById('w').innerHTML += gen.w.toString();
     document.getElementById('x').innerHTML += gen.x.toString();
     document.getElementById("o0").innerHTML = gen.nextRand().toString();
@@ -29,6 +29,11 @@ function run_lotto() {
     document.getElementById("o9").innerHTML = gen.nextRand().toString();
 }
 </script>
+
+<form onsubmit="return false;">
+<input type="password" id="pwd">
+<input type="submit" onClick="run_lotto()">
+</form>
 
 <p id='w'>Initial W: </p>
 <p id='x'>Initial X: </p>
