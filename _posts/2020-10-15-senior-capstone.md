@@ -17,10 +17,13 @@ Breaking the Middle Square Weyl Sequence PRNG
 How can a pseudorandom number generator (PRNG) be broken and what impacts could this have?
 
 ## Competencies
-Overview - Formal Cryptography, Scripting, Web Development
+Overview - Formal Cryptography, Scripting, Web Development, Cloud Computing
+<br>
 Languages - Python, Javascript, HTML, Jekyll, Markdown
+<br>
 Theory - Modular Arithmetic, Linear Congruences, Modular Multiplicative Inverses
-Tools - Cloud Computing, GCP
+<br>
+Tools - GCP (Google Cloud Platform), Linux, SSH, Z3 Theorem Prover
 
 ## Interview
 
@@ -32,4 +35,4 @@ Interviews were conducted with PhD students Abhiram Kothapalli (Carnegie Mellon)
 
 ## Presentation
 
-.
+Presentation Slideshow coming soon. Presentation was given in front of peers and an industry professional.

@@ -24,7 +24,7 @@ function init_lotto() {
     gen.init_from_pwd(document.getElementById("pwd").value);
     document.getElementById('w').innerText  = "Initial W: " + gen.w.toString();
     document.getElementById('x').innerText  = "Initial X: " + gen.x.toString();
-    document.getElementById('last-win').innerText = '...';
+    document.getElementById('last-win').innerText = 'Initialized';
     document.getElementById('outputs').innerHTML = '';
 }
 </script>
@@ -34,6 +34,7 @@ function init_lotto() {
 <input type="submit" onClick="init_lotto()">
 </form>
 
+<!--Secret Parameters-->
 <p id='w' style="color:white;">Initial W: </p>
 <p id='x' style="color:white;">Initial X: </p>
 
