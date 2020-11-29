@@ -41,7 +41,9 @@ function init_lotto() {
 <input type="submit" onClick="show_one()" value='Run Lotto'>
 </form>
 
+<p id='last-win'></p>
+
+<p>Past Winners:</p>
 <div id='outputs'>
     <!--Winning Numbers Generated Here-->
-    <p>Winning Numbers:</p>
 </div>
