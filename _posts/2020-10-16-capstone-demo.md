@@ -13,17 +13,19 @@ tags: []
 <script>
 var gen;
 function show_one() {
-    var para = document.createElement("p")
-    var node = document.createTextNode(gen.nextRand().toString());
+    var para = document.createElement("p");
+    var node = document.createTextNode(document.getElementById("last-win").innerText);
     para.appendChild(node);
-    document.getElementById("outputs").appendChild(para);
+    document.getElementById("outputs").prepend(para);
+    document.getElementById("last-win").innerText = gen.nextRand().toString();
 }
 function init_lotto() {
     gen = new Weyl();
     gen.init_from_pwd(document.getElementById("pwd").value);
-    document.getElementById('w').innerHTML  = "Initial W: " + gen.w.toString();
-    document.getElementById('x').innerHTML  = "Initial X: " + gen.x.toString();
-    document.getElementById('outputs').innerHTML = '<p>Winning Numbers:</p>'
+    document.getElementById('w').innerText  = "Initial W: " + gen.w.toString();
+    document.getElementById('x').innerText  = "Initial X: " + gen.x.toString();
+    document.getElementById('last-win').innerText = '...';
+    document.getElementById('outputs').innerHTML = '<p>Winning Numbers:</p>'; //Clear the winning numbers
 }
 </script>
 
@@ -32,8 +34,6 @@ function init_lotto() {
 <input type="submit" onClick="init_lotto()">
 </form>
 
-<br>
-
 <p id='w' style="color:white;">Initial W: </p>
 <p id='x' style="color:white;">Initial X: </p>
 
@@ -41,7 +41,7 @@ function init_lotto() {
 <input type="submit" onClick="show_one()" value='Run Lotto'>
 </form>
 
-<p id='last-win'></p>
+<p id='last-win' style="border:5px solid red;">...</p>
 
 <p>Past Winners:</p>
 <div id='outputs'>
