@@ -34,12 +34,12 @@ function init_lotto() {
 
 <br>
 
+<p id='w' style="color:white;">Initial W: </p>
+<p id='x' style="color:white;">Initial X: </p>
+
 <form onsubmit="return false;">
 <input type="submit" onClick="show_one()" value='Run Lotto'>
 </form>
-
-<p id='w' style="color:white;">Initial W: </p>
-<p id='x' style="color:white;">Initial X: </p>
 
 <div id='outputs'>
     <!--Winning Numbers Generated Here-->
