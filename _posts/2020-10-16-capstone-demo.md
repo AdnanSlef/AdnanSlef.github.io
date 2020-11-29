@@ -25,7 +25,7 @@ function init_lotto() {
     document.getElementById('w').innerText  = "Initial W: " + gen.w.toString();
     document.getElementById('x').innerText  = "Initial X: " + gen.x.toString();
     document.getElementById('last-win').innerText = '...';
-    document.getElementById('outputs').innerHTML = '<p>Winning Numbers:</p>'; //Clear the winning numbers
+    document.getElementById('outputs').innerHTML = '';
 }
 </script>
 
@@ -41,7 +41,7 @@ function init_lotto() {
 <input type="submit" onClick="show_one()" value='Run Lotto'>
 </form>
 
-<p id='last-win' style="border:5px solid red;">...</p>
+<p id='last-win' style="border:5px solid red; text-align:center; margin: auto; width:300px">...</p>
 
 <p>Past Winners:</p>
 <div id='outputs'>
