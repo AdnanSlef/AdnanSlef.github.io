@@ -18,7 +18,7 @@ function show_one() {
     para.appendChild(node);
     document.getElementById("outputs").appendChild(para);
 }
-function run_lotto() {
+function init_lotto() {
     gen = new Weyl();
     gen.init_from_pwd(document.getElementById("pwd").value);
     document.getElementById('w').innerHTML  = "Initial W: " + gen.w.toString();
@@ -29,7 +29,7 @@ function run_lotto() {
 
 <form onsubmit="return false;">
 <input type="password" id="pwd" placeholder = "Governor's key">
-<input type="submit" onClick="run_lotto()">
+<input type="submit" onClick="init_lotto()">
 </form>
 
 <br>
@@ -38,8 +38,8 @@ function run_lotto() {
 <input type="submit" onClick="show_one()" value='Run Lotto'>
 </form>
 
-<p id='w'>Initial W: </p>
-<p id='x'>Initial X: </p>
+<p id='w' style="color:white;">Initial W: </p>
+<p id='x' style="color:white;">Initial X: </p>
 
 <div id='outputs'>
     <!--Winning Numbers Generated Here-->
