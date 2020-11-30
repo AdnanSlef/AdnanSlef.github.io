@@ -51,5 +51,5 @@ Mike Specter - Interview
 
 ## References
 
-[Middle Square Weyl Sequence RNG - Bernard Widynski](https://arxiv.org/pdf/1704.00358.pdf)
+[Middle Square Weyl Sequence RNG - Bernard Widynski](https://arxiv.org/pdf/1704.00358.pdf)\
 [Middle-Square Method - Wikipedia](https://en.wikipedia.org/wiki/Middle-square_method#Middle_Square_Weyl_Sequence_PRNG)

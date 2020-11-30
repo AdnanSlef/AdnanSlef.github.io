@@ -25,4 +25,10 @@ Here is my resume as of 06 Oct 2020:
 
 ## Competitions
 
-.
+<details open>
+<summary>Toggle Dropdown</summary>
+<br>
+    <ul>
+        <li>PicoCTF 2019</li>
+    </ul>
+</details>
