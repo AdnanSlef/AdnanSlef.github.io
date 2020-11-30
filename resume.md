@@ -18,7 +18,12 @@ Here is my resume as of 06 Oct 2020:
 
 ## Certifications
 
-.
+CompTIA A+\
+TestOut PC Pro\
+Cisco IT Essentials
+Cisco Intro to Cybersecurity
+IBM Cybersecurity Fundamentals
+...
 
 ## Skills
 .
