@@ -15,3 +15,14 @@ Here is my resume as of 06 Oct 2020:
     Oops! Your browser doesn't support PDF previews.<br>
     Please use the download link above.
 </object>
+
+## Certifications
+
+.
+
+## Skills
+.
+
+## Competitions
+
+.
