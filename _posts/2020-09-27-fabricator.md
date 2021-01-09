@@ -3,7 +3,7 @@ layout: writeup
 title: Fabricator
 description: Don't compare hashes with strncmp!
 categories: [writeups]
-tags: [CSAW Red 2020, pwn]
+tags: [CSAW Red 2020, pwn, Featured]
 ---
 
 # Fabricator

@@ -25,6 +25,9 @@ Cisco Intro to Cybersecurity
 IBM Cybersecurity Fundamentals
 ...
 
+## Badges
+.
+
 ## Skills
 .
 
@@ -34,6 +37,31 @@ IBM Cybersecurity Fundamentals
 <summary>Toggle Dropdown</summary>
 <br>
     <ul>
+        <li>HacktivityCon CTF 2020</li>
+            <div>
+                Placed first of 3,XXX teams
+                <br>
+                Collaborated with team (redpwn)
+            </div>
         <li>PicoCTF 2019</li>
+            <div>Placed third</div>
+        <li>ångstromCTF 2020</li>
+            <div>Placed third</div>
+        <li>TJCTF 2020</li>
+            <div>Placed 7th</div>
+        <li>redpwnCTF 2020</li>
+            <div>
+                Placed 6th, College Division
+                <br>
+                Collaborated with team (GS Goofballs)
+                <br>
+                Solved challenges in the field of cryptography, including RSA and ECC.
+            </div>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
     </ul>
 </details>
