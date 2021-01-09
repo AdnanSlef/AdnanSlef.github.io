@@ -26,6 +26,9 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.tags | join: ", " | default: page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
+    <p>
+      <a href="/writeups/" style="padding-left:10%">&lt; Return to Writeups List</a>
+    </p>
 
     <main id="content" class="main-content" role="main">
       {{ content }}

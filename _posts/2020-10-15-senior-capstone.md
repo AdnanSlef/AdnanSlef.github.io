@@ -30,11 +30,12 @@ Skills: Research, Conducting Interviews, Composing Reports, Presenting Product
 
 ## Interview
 
-Interviews were conducted with PhD students Abhiram Kothapalli (Carnegie Mellon) and Mike Specter (MIT).
+Interviews were conducted with PhD students Abhiram Kothapalli (Carnegie Mellon) and Mike Specter (MIT).\
+An interview summary is available [here](https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/InterviewSummary.pdf), with topics including PRNGs, Zero-Knowledge Proofs, and Verifiable Computation.
 
 ## Product
 
-[Click Here](/2020/10/16/capstone-demo.html) to access target webpage.
+[Click Here](/2020/10/16/capstone-demo.html) to access the target webpage, the simulated lottery to be attacked.
 <br>
 Solve script coming soon.
 
