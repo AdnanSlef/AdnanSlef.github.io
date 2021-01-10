@@ -42,15 +42,15 @@ Presentation Slideshow is available \[[here](https://aself3-files.adrianself.me/
 
 ## Competencies
 
-Overview: Formal Cryptography, Scripting, Web Development, Cloud Computing
+Overview: Formal Cryptography, &nbsp;&nbsp;Scripting,&nbsp;&nbsp; Web Development,&nbsp;&nbsp; Cloud Computing<br>
 <br>
-Languages: Python, Javascript, HTML, Jekyll, Markdown
+Languages: Python,&nbsp;&nbsp; Javascript,&nbsp;&nbsp; HTML,&nbsp;&nbsp; Jekyll,&nbsp;&nbsp; Markdown<br>
 <br>
-Theory: Modular Arithmetic, Linear Congruences, Modular Multiplicative Inverses
+Theory: Modular Arithmetic,&nbsp;&nbsp; Linear Congruences, &nbsp;&nbsp;Modular Multiplicative Inverses<br>
 <br>
-Tools: GCP (Google Cloud Platform), Linux, SSH, Z3 Theorem Prover
+Tools: GCP (Google Cloud Platform), &nbsp;&nbsp;Linux, &nbsp;&nbsp;SSH, &nbsp;&nbsp;Z3 Theorem Prover<br>
 <br>
-Skills: Research, Conducting Interviews, Composing Reports, Presenting Product
+Skills: Research, &nbsp;&nbsp;Conducting Interviews, &nbsp;&nbsp;Composing Reports, &nbsp;&nbsp;Presenting Product
 
 ## Credits
 
@@ -63,3 +63,5 @@ Mike Specter - Interview
 
 [Middle Square Weyl Sequence RNG - Bernard Widynski](https://arxiv.org/pdf/1704.00358.pdf)\
 [Middle-Square Method - Wikipedia](https://en.wikipedia.org/wiki/Middle-square_method#Middle_Square_Weyl_Sequence_PRNG)
+[Attack of the Middle Square Weyl Sequence PRNG - Cryptography StackExchange](https://crypto.stackexchange.com/questions/62750/attack-of-the-middle-square-weyl-sequence-prng)
+[Weyl PRNG CTF Challenge - Warren Sunada-Wong](https://gitlab.com/nactf/challenges-2019/writeups/-/tree/master/cryptography/dr-js-group-test-randomizer-2-bbob)
