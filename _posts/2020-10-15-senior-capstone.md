@@ -23,7 +23,7 @@ An interview summary is available \[[here](https://aself3-files.adrianself.me/Cy
 
 ## Paper
 
-One element of my project was a semi-formal paper addressing the vulner\
+One element of my project was a semi-formal paper addressing the vulnerability.\
 That document is availabe \[[here](https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/Senior_Capstone_Finished.pdf)\] and included below.
 <object data="https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/Senior_Capstone_Finished.pdf" type="application/pdf" height="600px" width="100%">
     Oops! Your browser doesn't support PDF previews.<br>
@@ -42,15 +42,28 @@ Presentation Slideshow is available \[[here](https://aself3-files.adrianself.me/
 
 ## Competencies
 
-Overview: Formal Cryptography, &nbsp;&nbsp;Scripting,&nbsp;&nbsp; Web Development,&nbsp;&nbsp; Cloud Computing<br>
-<br>
-Languages: Python,&nbsp;&nbsp; Javascript,&nbsp;&nbsp; HTML,&nbsp;&nbsp; Jekyll,&nbsp;&nbsp; Markdown<br>
-<br>
-Theory: Modular Arithmetic,&nbsp;&nbsp; Linear Congruences, &nbsp;&nbsp;Modular Multiplicative Inverses<br>
-<br>
-Tools: GCP (Google Cloud Platform), &nbsp;&nbsp;Linux, &nbsp;&nbsp;SSH, &nbsp;&nbsp;Z3 Theorem Prover<br>
-<br>
-Skills: Research, &nbsp;&nbsp;Conducting Interviews, &nbsp;&nbsp;Composing Reports, &nbsp;&nbsp;Presenting Product
+<table>
+    <tr>
+        <th>Overview</th>
+        <td>Formal Cryptography, Cloud Computing, Scripting, Web Development</td>
+    </tr>
+    <tr>
+		<th>Languages</th>
+        <td>Python, Javascript, C, HTML, Jekyll, Markdown</td>
+    </tr>
+    <tr>
+		<th>Theory</th>
+        <td>Modular Arithmetic, Linear Congruences, Modular Multiplicative Inverses</td>
+    </tr>
+    <tr>
+		<th>Tools</th>
+        <td>GCP (Google Cloud Platform), Z3 Theorem Prover, Linux, SSH</td>
+    </tr>
+    <tr>
+		<th>Skills</th>
+        <td>Research, Conducting Interviews, Composing Reports, Presenting Product</td>
+    </tr>
+</table>
 
 ## Credits
 
