@@ -16,18 +16,6 @@ Breaking the Middle Square Weyl Sequence PRNG
 
 How can a pseudorandom number generator (PRNG) be broken and what impacts could this have?
 
-## Competencies
-
-Overview: Formal Cryptography, Scripting, Web Development, Cloud Computing
-<br>
-Languages: Python, Javascript, HTML, Jekyll, Markdown
-<br>
-Theory: Modular Arithmetic, Linear Congruences, Modular Multiplicative Inverses
-<br>
-Tools: GCP (Google Cloud Platform), Linux, SSH, Z3 Theorem Prover
-<br>
-Skills: Research, Conducting Interviews, Composing Reports, Presenting Product
-
 ## Interview
 
 Interviews were conducted with PhD students Abhiram Kothapalli (Carnegie Mellon) and Mike Specter (MIT).\
@@ -37,7 +25,7 @@ An interview summary is available \[[here](https://aself3-files.adrianself.me/Cy
 
 One element of my project was a semi-formal paper addressing the vulner\
 That document is availabe \[[here](https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/Senior_Capstone_Finished.pdf)\] and included below.
-<object data="https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/Senior_Capstone_Finished.pdf" type="application/pdf" height="400px" width="100%">
+<object data="https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/Senior_Capstone_Finished.pdf" type="application/pdf" height="600px" width="100%">
     Oops! Your browser doesn't support PDF previews.<br>
     Please use the download link above.
 </object>
@@ -51,6 +39,18 @@ Solve script coming soon.
 ## Presentation
 
 Presentation Slideshow is available \[[here](https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/CapstoneSlides.pdf)\]. Presentation was given in front of peers and an industry professional.
+
+## Competencies
+
+Overview: Formal Cryptography, Scripting, Web Development, Cloud Computing
+<br>
+Languages: Python, Javascript, HTML, Jekyll, Markdown
+<br>
+Theory: Modular Arithmetic, Linear Congruences, Modular Multiplicative Inverses
+<br>
+Tools: GCP (Google Cloud Platform), Linux, SSH, Z3 Theorem Prover
+<br>
+Skills: Research, Conducting Interviews, Composing Reports, Presenting Product
 
 ## Credits
 
