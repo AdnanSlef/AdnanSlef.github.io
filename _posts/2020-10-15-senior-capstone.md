@@ -36,8 +36,8 @@ An interview summary is available \[[here](https://aself3-files.adrianself.me/Cy
 ## Paper
 
 One element of my project was a semi-formal paper addressing the vulner\
-That document is availabe \[[here](https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/Senior_Capstone_Finished.pdf)\] and included below.\
-<object data="https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/Senior_Capstone_Finished.pdf" type="application/pdf" height="100%" width="100%">
+That document is availabe \[[here](https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/Senior_Capstone_Finished.pdf)\] and included below.
+<object data="https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/Senior_Capstone_Finished.pdf" type="application/pdf" height="400px" width="100%">
     Oops! Your browser doesn't support PDF previews.<br>
     Please use the download link above.
 </object>
