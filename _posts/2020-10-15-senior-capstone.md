@@ -31,7 +31,16 @@ Skills: Research, Conducting Interviews, Composing Reports, Presenting Product
 ## Interview
 
 Interviews were conducted with PhD students Abhiram Kothapalli (Carnegie Mellon) and Mike Specter (MIT).\
-An interview summary is available [here](https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/InterviewSummary.pdf), with topics including PRNGs, Zero-Knowledge Proofs, and Verifiable Computation.
+An interview summary is available \[[here](https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/InterviewSummary.pdf)\], with topics including PRNGs, Zero-Knowledge Proofs, and Verifiable Computation.
+
+## Paper
+
+One element of my project was a semi-formal paper addressing the vulner\
+That document is availabe \[[here](https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/Senior_Capstone_Finished.pdf)\] and included below.\
+<object data="https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/Senior_Capstone_Finished.pdf" type="application/pdf" height="100%" width="100%">
+    Oops! Your browser doesn't support PDF previews.<br>
+    Please use the download link above.
+</object>
 
 ## Product
 
@@ -41,7 +50,7 @@ Solve script coming soon.
 
 ## Presentation
 
-Presentation Slideshow coming soon. Presentation was given in front of peers and an industry professional.
+Presentation Slideshow is available \[[here](https://aself3-files.adrianself.me/Cybersecurity_Senior_Capstone/CapstoneSlides.pdf)\]. Presentation was given in front of peers and an industry professional.
 
 ## Credits
 
