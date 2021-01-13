@@ -43,25 +43,40 @@ Studying for:\
     <tr>
 		<th>Technical Skills</th>
         <td>
-            Debugging, Software Reverse Engineering, Symbolic Execution,\
+            Debugging, Software Reverse Engineering, Symbolic Execution,
+            <br>
             Binary Exploitation, Web Security, CAT5e Cabling
         </td>
     </tr>
     <tr>
 		<th>Non-Tech Skills</th>
         <td>
-            Research, Conducting Interviews, Composing Reports,\
+            Research, Conducting Interviews, Composing Reports,
+            <br>
             Presenting Products/Findings
         </td>
     </tr>
     <tr>
         <th>Languages</th>
         <td>
-            Daily Usage: Python, C\
-            Familiar: Java\
-            When Needed: Javascript,\
-            Touched: Ruby, Julia,\
+            Python, C
+            <br>
+            Java
+            <br>
+            Javascript,
+            <br>
+            Ruby, Julia,
+            <br>
             I pick up new languages easily
+        </td>
+        <td>
+            Daily Usage
+            <br>
+            Familiar
+            <br>
+            When Needed
+            <br>
+            Touched
         </td>
     </tr>
     <tr>
