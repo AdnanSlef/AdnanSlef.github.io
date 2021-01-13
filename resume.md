@@ -28,11 +28,11 @@ Studying for:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CLA &mdash; C Certified Associate Programmer (80% Complete)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CompTIA Security+ (Timeline June 2021)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CompTIA Network+ (Timeline May 2021)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TestOut Security Pro (Timeline June 2021)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TestOut Security Pro (Timeline May 2021)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TestOut Network Pro (Timeline April 2021)
 
 ## Badges
-<a href="https://www.youracclaim.com/badges/0bbe53d5-c3f5-4a44-89db-56dd756db62e/public_url"><img src="https://aself3-files.adrianself.me/Images/comptia-a-ce-certification.png"></a>
+<a href="https://www.youracclaim.com/badges/0bbe53d5-c3f5-4a44-89db-56dd756db62e/public_url"><img src="https://aself3-files.adrianself.me/Images/comptia-a-ce-certification.png" style="width:30%;height:30%" alt="Adrian Self CompTIA A+ Badge"></a>
 
 ## Skills
 <table>
@@ -71,7 +71,7 @@ Studying for:\
             <br>
             I pick up new languages easily
         </td>
-        <td>
+        <td style="white-space:nowrap">
             Daily Usage
             <br>
             Familiar
