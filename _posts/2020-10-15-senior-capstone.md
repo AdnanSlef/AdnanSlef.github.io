@@ -136,9 +136,11 @@ def post(x0, w1, r):
 
 def get_r():
     print("Past Winners:")
-    r = [*map(int,sys.stdin.read().split())][::-1] #Copy-paste from website, ^D when finished
+    #Copy-paste from website, ^D when finished
+    r = [*map(int,sys.stdin.read().split())][::-1]
     print("Most recent winner:")
-    r.append(int(sys.stdin.read().strip())) #The value in the red box. ^D to submit.
+    #The value in the red box. ^D to submit
+    r.append(int(sys.stdin.read().strip()))
     print()
     
     if len(r) < 6:
@@ -170,7 +172,7 @@ Presentation was given in front of peers and an industry professional.
     </tr>
     <tr>
 		<th>Languages</th>
-        <td>Python, Javascript, C, HTML, Jekyll, Markdown</td>
+        <td>Python, Javascript, C, HTML, LaTeX, Jekyll, Markdown</td>
     </tr>
     <tr>
 		<th>Theory</th>

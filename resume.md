@@ -20,8 +20,8 @@ Here is my resume as of 06 Oct 2020:
 
 CompTIA A+\
 TestOut PC Pro\
-Cisco IT Essentials
-Cisco Intro to Cybersecurity
+Cisco IT Essentials\
+Cisco Intro to Cybersecurity\
 IBM Cybersecurity Fundamentals
 ...
 
@@ -29,6 +29,9 @@ IBM Cybersecurity Fundamentals
 .
 
 ## Skills
+.
+
+## Portfolio
 .
 
 ## Competitions
