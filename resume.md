@@ -22,8 +22,14 @@ CompTIA A+\
 TestOut PC Pro\
 Cisco IT Essentials\
 Cisco Intro to Cybersecurity\
-IBM Cybersecurity Fundamentals
-...
+IBM Cybersecurity Fundamentals\
+Studying for:\
+&nbsp;&nbsp;&nbsp; TestOut Certified Ethical Hacker (65% Complete)\
+&nbsp;&nbsp;&nbsp; CLA &mdash; C Certified Associate Programmer (80% Complete)\
+&nbsp;&nbsp;&nbsp; CompTIA Security+ (Timeline June 2021)\
+&nbsp;&nbsp;&nbsp; CompTIA Network+ (Timeline May 2021)\
+&nbsp;&nbsp;&nbsp; TestOut Security Pro (Timeline June 2021)\
+&nbsp;&nbsp;&nbsp; TestOut Network Pro (Timeline April 2021)
 
 ## Badges
 .
@@ -42,12 +48,20 @@ IBM Cybersecurity Fundamentals
     <ul>
         <li>HacktivityCon CTF 2020</li>
             <div>
-                Placed first of 3,XXX teams
+                Placed first of 3,663 teams
                 <br>
                 Collaborated with team (redpwn)
+                <br>
+                Solved challenges in the areas of _, _, _
             </div>
         <li>PicoCTF 2019</li>
-            <div>Placed third</div>
+            <div>
+                Placed third of 15,000+ teams; Invited to awards ceremony
+                <br>
+                Collaborated with team (GS Goofballs)
+                <br>
+                Solved challenges in the areas of cryptography, web exploitation, binary exploitation, forensics, and reverse engineering
+            </div>
         <li>ångstromCTF 2020</li>
             <div>Placed third</div>
         <li>TJCTF 2020</li>

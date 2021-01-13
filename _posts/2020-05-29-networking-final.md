@@ -8,7 +8,7 @@ tags: [Essays]
 
 # Network+ Final Essay
 
-link to static file below
-[link]()
+Link to static file coming soon\
+\[[missing]()\]
 
-insert in-page viewer here
+Embedded document coming soon
