@@ -24,18 +24,46 @@ Cisco IT Essentials\
 Cisco Intro to Cybersecurity\
 IBM Cybersecurity Fundamentals\
 Studying for:\
-&nbsp;&nbsp;&nbsp; TestOut Certified Ethical Hacker (65% Complete)\
-&nbsp;&nbsp;&nbsp; CLA &mdash; C Certified Associate Programmer (80% Complete)\
-&nbsp;&nbsp;&nbsp; CompTIA Security+ (Timeline June 2021)\
-&nbsp;&nbsp;&nbsp; CompTIA Network+ (Timeline May 2021)\
-&nbsp;&nbsp;&nbsp; TestOut Security Pro (Timeline June 2021)\
-&nbsp;&nbsp;&nbsp; TestOut Network Pro (Timeline April 2021)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TestOut Certified Ethical Hacker (65% Complete)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CLA &mdash; C Certified Associate Programmer (80% Complete)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CompTIA Security+ (Timeline June 2021)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CompTIA Network+ (Timeline May 2021)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TestOut Security Pro (Timeline June 2021)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TestOut Network Pro (Timeline April 2021)
 
 ## Badges
 .
 
 ## Skills
-.
+<table>
+    <tr>
+        <th>Overview</th>
+        <td>Computer Security, Cryptography, Programming</td>
+    </tr>
+    <tr>
+		<th>Technical Skills</th>
+        <td>Debugging, Software Reverse Engineering, </td>
+    </tr>
+    <tr>
+		<th>Non-Tech Skills</th>
+        <td>Research, Conducting Interviews, Composing Reports, <br>Presenting Products/Findings</td>
+    </tr>
+    <tr>
+        <th>Languages</th>
+        <td>Python, C</td>
+    </tr>
+    <tr>
+		<th>Tools</th>
+        <td>Linux, Z3 Theorem Prover</td>
+    </tr>
+</table>
+Python\
+Cryptography\
+C Programming\
+Debugging\
+Software Reverse Engineering\
+Computer Hardware\
+CAT5e Cabling
 
 ## Portfolio
 .
