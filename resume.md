@@ -32,7 +32,7 @@ Studying for:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TestOut Network Pro (Timeline April 2021)
 
 ## Badges
-.
+<a href="https://www.youracclaim.com/badges/0bbe53d5-c3f5-4a44-89db-56dd756db62e/public_url"><img src="https://aself3-files.adrianself.me/Images/comptia-a-ce-certification.png"></a>
 
 ## Skills
 <table>
@@ -43,9 +43,11 @@ Studying for:\
     <tr>
 		<th>Technical Skills</th>
         <td>
-            Debugging, Software Reverse Engineering, Symbolic Execution,
+            Debugging, Software Reverse Engineering,
             <br>
-            Binary Exploitation, Web Security, CAT5e Cabling
+            Symbolic Execution, Binary Exploitation,
+            <br>
+            Web Security, CAT5e Cabling
         </td>
     </tr>
     <tr>
@@ -82,8 +84,14 @@ Studying for:\
     <tr>
 		<th>Tools</th>
         <td>
-            Daily Usage: Linux, Ghidra, Z3 Theorem Prover\
-            
+            Linux, Ghidra, Z3 Theorem Prover
+            <br>
+            .
+        </td>
+        <td>
+            Daily Usage
+            <br>
+            .
         </td>
     </tr>
 </table>
