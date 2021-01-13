@@ -38,35 +38,46 @@ Studying for:\
 <table>
     <tr>
         <th>Overview</th>
-        <td>Computer Security, Cryptography, Programming</td>
+        <td>Quick Learner, Computer Security, Cryptography, Programming</td>
     </tr>
     <tr>
 		<th>Technical Skills</th>
-        <td>Debugging, Software Reverse Engineering, </td>
+        <td>
+            Debugging, Software Reverse Engineering, Symbolic Execution,\
+            Binary Exploitation, Web Security, CAT5e Cabling
+        </td>
     </tr>
     <tr>
 		<th>Non-Tech Skills</th>
-        <td>Research, Conducting Interviews, Composing Reports, <br>Presenting Products/Findings</td>
+        <td>
+            Research, Conducting Interviews, Composing Reports,\
+            Presenting Products/Findings
+        </td>
     </tr>
     <tr>
         <th>Languages</th>
-        <td>Python, C</td>
+        <td>
+            Daily Usage: Python, C\
+            Familiar: Java\
+            When Needed: Javascript,\
+            Touched: Ruby, Julia,\
+            I pick up new languages easily
+        </td>
     </tr>
     <tr>
 		<th>Tools</th>
-        <td>Linux, Z3 Theorem Prover</td>
+        <td>
+            Daily Usage: Linux, Ghidra, Z3 Theorem Prover\
+            
+        </td>
     </tr>
 </table>
-Python\
-Cryptography\
-C Programming\
-Debugging\
-Software Reverse Engineering\
-Computer Hardware\
-CAT5e Cabling
 
 ## Portfolio
-.
+[Cybersecurity Capstone Project](https://adrianself.me/portfolio/2020/10/15/senior-capstone.html)
+<br>
+MITRE Collegiate Embedded CTF 2019 (Writeup Coming Soon)
+
 
 ## Competitions
 
@@ -102,7 +113,15 @@ CAT5e Cabling
                 <br>
                 Solved challenges in the field of cryptography, including RSA and ECC.
             </div>
-        <li></li>
+        <li>UIUCTF 2020
+            <div>
+                Placed 1st
+                <br>
+                Collaborated with team (DiceGang)
+                <br>
+                Description coming soon
+            </div>
+        </li>
         <li></li>
         <li></li>
         <li></li>
