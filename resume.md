@@ -33,6 +33,8 @@ Studying for:\
 
 ## Badges
 <a href="https://www.youracclaim.com/badges/0bbe53d5-c3f5-4a44-89db-56dd756db62e/public_url"><img src="https://aself3-files.adrianself.me/Images/comptia-a-ce-certification.png" style="width:30%;height:30%" alt="Adrian Self CompTIA A+ Badge"></a>
+<a href="https://www.youracclaim.com/badges/abf5d493-64c0-4ec6-98b0-de49e1a16364/public_url"><img src="https://aself3-files.adrianself.me/Images/cisco-intro-to-cybersecurity.png" style="width:30%;height:30%" alt="Adrian Self Cisco Cybersecurity Badge"></a>
+<a href="https://www.youracclaim.com/badges/e6d6c791-b8fc-415d-9d8e-d47ff5a8e9cc/public_url"><img src="https://aself3-files.adrianself.me/Images/ibm-cybersecurity-fundamentals.png" style="width:50%;height:50%" alt="Adrian Self IBM Cybersecurity Badge"></a>
 
 ## Skills
 <table>
@@ -71,7 +73,7 @@ Studying for:\
             <br>
             I pick up new languages easily
         </td>
-        <td style="white-space:nowrap">
+        <td style="white-space:nowrap; vertical-align: top;">
             Daily Usage
             <br>
             Familiar
@@ -98,7 +100,7 @@ Studying for:\
 
 ## Portfolio
 [Cybersecurity Capstone Project](https://adrianself.me/portfolio/2020/10/15/senior-capstone.html)
-<br>
+<br><br>
 MITRE Collegiate Embedded CTF 2019 (Writeup Coming Soon)
 
 
@@ -114,7 +116,7 @@ MITRE Collegiate Embedded CTF 2019 (Writeup Coming Soon)
                 <br>
                 Collaborated with team (redpwn)
                 <br>
-                Solved challenges in the areas of _, _, _
+                Solved computer security challenges
             </div>
         <li>PicoCTF 2019</li>
             <div>
@@ -142,7 +144,7 @@ MITRE Collegiate Embedded CTF 2019 (Writeup Coming Soon)
                 <br>
                 Collaborated with team (DiceGang)
                 <br>
-                Description coming soon
+                Solved computer security challenges
             </div>
         </li>
         <li></li>
