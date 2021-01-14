@@ -32,9 +32,11 @@ Studying for:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TestOut Network Pro (Timeline April 2021)
 
 ## Badges
+<div>
 <a href="https://www.youracclaim.com/badges/0bbe53d5-c3f5-4a44-89db-56dd756db62e/public_url"><img src="https://aself3-files.adrianself.me/Images/comptia-a-ce-certification.png" style="width:220px;height:220px" alt="Adrian Self CompTIA A+ Badge"></a>
 <a href="https://www.youracclaim.com/badges/abf5d493-64c0-4ec6-98b0-de49e1a16364/public_url"><img src="https://aself3-files.adrianself.me/Images/cisco-intro-to-cybersecurity.png" style="width:180px;height:180px" alt="Adrian Self Cisco Cybersecurity Badge"></a>
 <a href="https://www.youracclaim.com/badges/e6d6c791-b8fc-415d-9d8e-d47ff5a8e9cc/public_url"><img src="https://aself3-files.adrianself.me/Images/ibm-cybersecurity-fundamentals.png" style="width:200px;height:200px" alt="Adrian Self IBM Cybersecurity Badge"></a>
+</div>
 
 ## Skills
 <table>
@@ -74,9 +76,10 @@ Studying for:\
             <br>
             Java, Jekyll
             <br>
-            Javascript, LaTeX
+            Javascript, LaTeX, SQL, PHP, C++
             <br>
-            Ruby, Julia,
+            Ruby, Julia, Typescript, BASIC,\
+            IA32/amd64 asm, Verilog
             <br>
             I pick up new languages easily
         </td>
@@ -114,7 +117,7 @@ MITRE Collegiate Embedded CTF 2019 (Writeup Coming Soon)
 ## Competitions
 
 <details>
-<summary>Toggle Dropdown</summary>
+<summary><u>[Toggle Dropdown]()</u></summary>
 <br>
     <ul>
         <li>HacktivityCon CTF 2020</li>
