@@ -111,13 +111,19 @@ Studying for:\
 [Cybersecurity Capstone Project](https://adrianself.me/portfolio/2020/10/15/senior-capstone.html)
 <br><br>
 MITRE Collegiate Embedded CTF 2019 (Writeup Coming Soon)
+<br><br>
+[Fabricator: Binary Exploitation + Crypto Challenge, Found Unintended Solution](https://adrianself.me/writeups/2020/09/27/fabricator.html)
+<br><br>
+[Comprehensive2: Z3 Theorem Prover, Python, Reverse Engineering](https://adrianself.me/writeups/2020/05/26/comprehensive.html)
+<br><br>
+[Jarvis: Machine Learning, TensorFlow, Linear Classifier](https://adrianself.me/writeups/2020/05/26/jarvis.html)
 
 
 ## Competitions
 
 <details>
 <summary>
-    <p style="color:#1e6bb8;"><u>Toggle Dropdown</u></p>
+    <span style="color:#1e6bb8;"><u>Toggle Dropdown</u></span>
 </summary>
 <br>
     <ul>
