@@ -117,7 +117,7 @@ MITRE Collegiate Embedded CTF 2019 (Writeup Coming Soon)
 
 <details>
 <summary>
-    <a><u>Toggle Dropdown</u></a>
+    <p style="color:#1e6bb8;"><u>Toggle Dropdown</u></p>
 </summary>
 <br>
     <ul>
