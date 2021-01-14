@@ -116,7 +116,9 @@ MITRE Collegiate Embedded CTF 2019 (Writeup Coming Soon)
 ## Competitions
 
 <details>
-<summary><u>[Toggle Dropdown]()</u></summary>
+<summary>
+    <a><u>Toggle Dropdown</u></a>
+</summary>
 <br>
     <ul>
         <li>HacktivityCon CTF 2020</li>
