@@ -76,10 +76,9 @@ Studying for:\
             <br>
             Java, Jekyll
             <br>
-            Javascript, LaTeX, SQL, PHP, C++
+            Javascript, LaTeX, SQL, PHP, C++, IA32/amd64 asm
             <br>
-            Ruby, Julia, Typescript, BASIC,\
-            IA32/amd64 asm, Verilog
+            Ruby, Julia, Typescript, BASIC, Verilog
             <br>
             I pick up new languages easily
         </td>
