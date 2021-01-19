@@ -110,7 +110,7 @@ Studying for:\
 ## Portfolio
 [Cybersecurity Capstone Project](https://adrianself.me/portfolio/2020/10/15/senior-capstone.html)
 <br><br>
-MITRE Collegiate Embedded CTF 2019 (Writeup Coming Soon)
+[MITRE Collegiate Embedded CTF 2020](https://adrianself.me/portfolio/2021/01/10/dacc-ectf-2020.html)
 <br><br>
 [Fabricator: Binary Exploitation + Crypto Challenge, Found Unintended Solution](https://adrianself.me/writeups/2020/09/27/fabricator.html)
 <br><br>
@@ -172,7 +172,7 @@ MITRE Collegiate Embedded CTF 2019 (Writeup Coming Soon)
                 Quals: Solved embdedded security challenge in Verilog and C
                 <br>
                 Finals: Explored gamified environment with security challenges,
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; including a flawed allocator.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; including a flawed allocator.
                 <br>
                 (Video Coming Soon)
             </div>
